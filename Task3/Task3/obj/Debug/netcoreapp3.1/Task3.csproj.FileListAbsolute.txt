@@ -1,0 +1,13 @@
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.deps.json
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.runtimeconfig.json
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.runtimeconfig.dev.json
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.dll
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.pdb
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.csproj.AssemblyReference.cache
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.AssemblyInfoInputs.cache
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.AssemblyInfo.cs
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.csproj.CoreCompileInputs.cache
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.dll
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.pdb
+/Users/faridgarayev/Desktop/PracticeTasks/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.genruntimeconfig.cache
