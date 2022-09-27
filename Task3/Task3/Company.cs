@@ -31,7 +31,7 @@ namespace Task3
 
         bool NameChecker(string name)
         {
-            if (char.IsLower(name[0])) return false;
+            if (!char.IsUpper(name[0])) return false;
 
             foreach (char item in name)
             {
